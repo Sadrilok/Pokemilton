@@ -1,51 +1,40 @@
 {
-  "save_on": "2024-03-13T15:55:19.788Z",
+  "save_on": "2024-03-13T14:51:48.956Z",
   "PokemiltonWorld": {
-    "day": 7,
+    "day": 10,
     "logs": [
-      "Day 1: Quentin received Mineemi!",
-      "Day 2: Quentin rename Mineemi in Nico!",
-      "Day 2: Quentin received Nico!",
-      "Day 3: Quentin rename Hietin in Céline!",
-      "Day 4: Quentin received Nico!"
+      "Day 1: Sadrilok received Mauel!",
+      "Day 2: Sadrilok received Mauel!",
+      "Day 5: Sadrilok rename Mauel in Manouel!",
+      "Day 6: Sadrilok rename Enkquen in Jackadi!"
     ]
   },
   "PokemiltonMaster": {
-    "name": "Quentin",
+    "name": "Sadrilok",
     "pokemiltonCollection": [
       {
-        "name": "Nico",
+        "name": "Manouel",
         "level": 1,
-        "experienceMeter": 5,
+        "experienceMeter": 13,
         "attackRange": 2,
         "defenseRange": 3,
-        "initHealthPool": 17,
-        "healthPool": 9,
-        "catchPhrase": "I choose you!"
-      },
-      {
-        "name": "Céline",
-        "level": 1,
-        "experienceMeter": 2,
-        "attackRange": 2,
-        "defenseRange": 1,
-        "initHealthPool": 26,
+        "initHealthPool": 25,
         "healthPool": 0,
-        "catchPhrase": "I choose you!"
+        "catchPhrase": "Let the battle begin!"
       },
       {
-        "name": "Manlou",
+        "name": "Jackadi",
         "level": 1,
-        "experienceMeter": 0,
-        "attackRange": 2,
-        "defenseRange": 3,
-        "initHealthPool": 17,
-        "healthPool": 5,
-        "catchPhrase": "Pokemilton, go!"
+        "experienceMeter": 24,
+        "attackRange": 6,
+        "defenseRange": 1,
+        "initHealthPool": 29,
+        "healthPool": 25,
+        "catchPhrase": "I choose you!"
       }
     ],
-    "healingItems": 3,
-    "reviveItems": 5,
-    "POKEBALLS": 8
+    "healingItems": 5,
+    "reviveItems": 6,
+    "POKEBALLS": 9
   }
 }

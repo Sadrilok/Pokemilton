@@ -1,0 +1,51 @@
+{
+  "save_on": "2024-03-13T15:55:19.788Z",
+  "PokemiltonWorld": {
+    "day": 7,
+    "logs": [
+      "Day 1: Quentin received Mineemi!",
+      "Day 2: Quentin rename Mineemi in Nico!",
+      "Day 2: Quentin received Nico!",
+      "Day 3: Quentin rename Hietin in Céline!",
+      "Day 4: Quentin received Nico!"
+    ]
+  },
+  "PokemiltonMaster": {
+    "name": "Quentin",
+    "pokemiltonCollection": [
+      {
+        "name": "Nico",
+        "level": 1,
+        "experienceMeter": 5,
+        "attackRange": 2,
+        "defenseRange": 3,
+        "initHealthPool": 17,
+        "healthPool": 9,
+        "catchPhrase": "I choose you!"
+      },
+      {
+        "name": "Céline",
+        "level": 1,
+        "experienceMeter": 2,
+        "attackRange": 2,
+        "defenseRange": 1,
+        "initHealthPool": 26,
+        "healthPool": 0,
+        "catchPhrase": "I choose you!"
+      },
+      {
+        "name": "Manlou",
+        "level": 1,
+        "experienceMeter": 0,
+        "attackRange": 2,
+        "defenseRange": 3,
+        "initHealthPool": 17,
+        "healthPool": 5,
+        "catchPhrase": "Pokemilton, go!"
+      }
+    ],
+    "healingItems": 3,
+    "reviveItems": 5,
+    "POKEBALLS": 8
+  }
+}
